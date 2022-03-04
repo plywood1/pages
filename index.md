@@ -1,3 +1,5 @@
-# My first GitHub Pages site
+# pages
+
+## My first GitHub Pages site
 
 hi.
